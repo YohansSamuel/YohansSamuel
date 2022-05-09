@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋 , I'm Yohans Samuel
+A passionate and devoted junior Machine Learning Engineer with a strong background in Python, SQL, data preprocessing for machine learning models,data modeling,visualization and Software Engineering. I have strong problem-solving and communication skills and a desire to work in a collaborative and challenging space.
 <!--
 **YohansSamuel/YohansSamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
