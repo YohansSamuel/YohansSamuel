@@ -1,9 +1,5 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo9757
-Fork on GitHub2377
 <h1 align="center">Hi 👋, I'm Yohans Samuel</h1>
-<h3 align="center">A passionate and devoted junior Machine Learning Engineer with a strong background in Python, SQL, data preprocessing for machine learning models,data modeling,visualization and Software Engineering. I have strong problem-solving and communication skills and a desire to work in a collaborative and challenging space.</h3>
+<h6 align="center">A passionate and devoted junior Machine Learning Engineer with a strong background in Python, SQL, data preprocessing for machine learning models,data modeling,visualization and Software Engineering. I have strong problem-solving and communication skills and a desire to work in a collaborative and challenging space.</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yohanssamuel&label=Profile%20views&color=0e75b6&style=flat" alt="yohanssamuel" /> </p>
 
