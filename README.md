@@ -7,7 +7,7 @@ A passionate and devoted junior Machine Learning Engineer with a strong backgrou
 
 <p align="left"> <a href="https://twitter.com/yohanssamuel14" target="blank"><img src="https://img.shields.io/twitter/follow/yohanssamuel14?logo=twitter&style=for-the-badge" alt="yohanssamuel14" /></a> </p>
 
-- 🌱 I’m currently learning **React,Angular,Spring Boot & Django.**
+- 🌱 I’m currently learning **React,Machine Learning,Data & Web 3 Engineering.**
 
 - 👯 I’m looking to collaborate on **python and javascript projects**
 
