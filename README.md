@@ -13,7 +13,7 @@ A passionate and devoted junior Machine Learning Engineer with a strong backgrou
 
 - 📫 How to reach me **yohanssamuel2014@gmail.com**
 
-- ⚡ Fun fact **I love history tvshows**
+- ⚡ Fun fact **I love history tv shows**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
