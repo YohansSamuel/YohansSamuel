@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yohans Samuel</h1>
-A passionate and devoted junior Data Engineer with a strong background in Python, SQL, data preprocessing,data modeling,visualization and Software Engineering. I have strong problem-solving and communication skills and a desire to work in a collaborative and challenging space.
+A passionate and devoted junior Data Engineer with a background in Software Engineering and Computer Science. I'm proficient in Python, SQL, Java, data preprocessing, visualization, and building scalable and maintainable data pipelines. I have strong problem-solving skills and a desire to work in a collaborative environment.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yohanssamuel&label=Profile%20views&color=0e75b6&style=flat" alt="yohanssamuel" /> </p>
 
